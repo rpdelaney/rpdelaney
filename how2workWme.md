@@ -13,7 +13,7 @@ handy starting point to help us understand each other. I'm always keen
 to learn about your unique styles, too! If you want to chat about
 anything or have questions, feel free to reach out.
 
-# My working hours & contacting me
+## My working hours & contacting me
 
 I am in [US Eastern
 time](https://www.timeanddate.com/worldclock/usa/ann-arbor).
@@ -80,8 +80,8 @@ fire.
 
 This works well when my interlocutor sticks up for their point of view,
 because one or both of us learns something, and then I'm fully on
-board. (I *want* you to argue back!)\
-\
+board. (I *want* you to argue back!)
+
 It goes wrong when I don't notice that people around me are feeling
 brow-beaten or just want to move on. If that's happening, please make
 it known in whatever way is most appropriate and comfortable for you.
@@ -123,7 +123,7 @@ you can't do, or just don't want to, please try to remember that I am
 unaware of the turmoil you might feel over declining, and there will be
 *no* hard feelings if you simply tell me you can't.
 
-### I'm an \[introvert\]{.underline}
+### I'm an introvert
 
 I love [Donuts](https://https://www.donut.com/), and I have rarely missed one I
 started at [Truss](https://truss.works) in Sept 2018. However, no matter how much I respect and
@@ -134,7 +134,7 @@ office setting), etc.
 If I politely decline an invitation, it's totally okay to ask again
 next time around. I might say yes, once in awhile!
 
-## Peeves
+### Peeves
 
 - Dogmatic commitment to tradition; resistance to change *merely*
   because "we've always done it that way".
