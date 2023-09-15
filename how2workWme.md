@@ -124,11 +124,11 @@ unaware of the turmoil you might feel over declining, and there will be
 
 ### I'm an introvert
 
-I love [Donuts](https://https://www.donut.com/), and I have rarely missed one I
-started at [Truss](https://truss.works) in Sept 2018. However, no matter how much I respect and
-appreciate my colleagues, I generally avoid "Being Humans" type things
-with many people on the call, group lunches and drinks after work (in an
-office setting), etc.
+I love [Donuts](https://www.donut.com/), and I have rarely missed one I
+started at [Truss](https://truss.works) in Sept 2018. However, no matter 
+how much I respect and appreciate my colleagues, I generally avoid "Being 
+Humans" type things with many people on the call, group lunches and drinks
+after work (in an office setting), etc.
 
 If I politely decline an invitation, it's totally okay to ask again
 next time around. I might say yes, once in awhile!
