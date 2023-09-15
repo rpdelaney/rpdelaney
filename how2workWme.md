@@ -109,11 +109,10 @@ have time and spoons for:
 - ['Askers' vs. 'Guessers'](https://12ft.io/proxy?q=https%3A%2F%2Fwww.theatlantic.com%2Fnational%2Farchive%2F2010%2F05%2Faskers-vs-guessers%2F340891%2F)
   from *The Atlantic*
 - A short [TikTok video](https://www.tiktok.com/@maryrobinettekowal/video/7099897861491412270)
-- [My One Topic Talk](https://youtu.be/NEwIdLtlYuE?t=545) (~20
-  minutes including Q&A) (includes a few personal anecdotes about my
-  own foibles)
+- [My One Topic Talk](https://www.youtube.com/watch?v=TNH64KhPLjM) (~12
+  minutes) (includes a few personal anecdotes about my own foibles)
 
-I am an Ask Culture person to the core. That means you should feel free
+I am an "Ask Culture" person to the core. That means you should feel free
 to ask me for help or anything else you might need: because if I am
 stretched too thin, I'll simply tell you I can't get to it.
 
