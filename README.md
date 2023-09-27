@@ -1,6 +1,6 @@
 ![Header](./assets/github-header-image.png)
 
-Hi! My name is **Ryan Delaney** and I like automating things.
+Hi! My name is **Ryan Delaney** (he/him) ([pronunciation][me_name]) and I like automating things.
 
 [![Keybase Badge](https://img.shields.io/badge/Keybase-33A0FF?logo=keybase&logoColor=fff&style=flat)][me_keybase]
 [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=fff&style=flat)][me_proton]
@@ -44,6 +44,7 @@ Hobbies:
 [me_gravatar]: https://en.gravatar.com/ryandelaney2013
 [me_keybase]: https://keybase.io/rpdelaney
 [me_linkedin]: https://www.linkedin.com/in/rpdelaney/
+[me_name]: http://ipa-reader.xyz/?text=%CB%88ra%C9%AA%C9%99n%20%CB%88p%C3%A6tr%C9%AAk%20d%C9%99le%C9%AAni&voice=Joeand
 [me_proton]: mailto:ryan.patrick.delaney+git@protonmail.com
 [me_pypi]: https://pypi.org/user/rpdelaney
 [me_youtube]: https://www.youtube.com/@rpdelaney
