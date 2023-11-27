@@ -1,5 +1,3 @@
-![Header](./assets/github-header-image.png)
-
 Hi! My name is **Ryan Delaney** (he/him) ([pronunciation][me_name]) and I like automating things.
 
 [![Keybase Badge](https://img.shields.io/badge/Keybase-33A0FF?logo=keybase&logoColor=fff&style=flat)][me_keybase]
