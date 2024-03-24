@@ -42,7 +42,7 @@ Hobbies:
 [me_gravatar]: https://en.gravatar.com/ryandelaney2013
 [me_keybase]: https://keybase.io/rpdelaney
 [me_linkedin]: https://www.linkedin.com/in/rpdelaney/
-[me_name]: http://ipa-reader.xyz/?text=%CB%88ra%C9%AA%C9%99n%20%CB%88p%C3%A6tr%C9%AAk%20d%C9%99le%C9%AAni&voice=Joanna
+[me_name]: http://ipa-reader.xyz/?text=%CB%88ra%C9%AA%C9%99n%20%CB%88p%C3%A6tr%C9%AAk%20d%C9%AA%CB%88le%C9%AAni&voice=Joanna
 [me_proton]: mailto:ryan.patrick.delaney+git@protonmail.com
 [me_pypi]: https://pypi.org/user/rpdelaney
 [me_youtube]: https://www.youtube.com/@rpdelaney
