@@ -16,7 +16,7 @@ feel free to reach out.
 ## My working hours & contacting me
 
 I am in
-[US Eastern time](https://www.timeanddate.com/worldclock/usa/ann-arbor).
+[US Eastern time][time].
 
 - I have my default non-working hours blocked on my calendar.
 
@@ -25,7 +25,7 @@ I am in
   filters.
 
 - When Slack is inoperable, text messaging (SMS or
-  [Signal](https://signal.org)) can work as a fall-back during a true
+  [Signal]) can work as a fall-back during a true
   emergency.
 
 ### Meetings and calendaring
@@ -64,9 +64,9 @@ something: tell me, then tell my manager. :o)
 
 If you aren't sure if what I've said should be taken literally, it's safe to
 assume that it should be. For instance, my questions are almost never
-rhetorical or masking some other meaning behind subtext.
+rhetorical or masking some other meaning in the subtext.
 
-- I tend to want to discover the truth behind ideas by debating them.
+- I tend to discover the truth behind ideas by debating them.
 
 That means that when I encounter ideas that are interesting, challenging,
 provocative, or promising, my instinct is to test them with fire.
@@ -75,11 +75,10 @@ This works well when my interlocutor sticks up for their point of view, because
 one or both of us learns something, and then I'm fully on board. (I *want* you
 to argue back!)
 
-It goes wrong when I don't notice that people around me are feeling brow-beaten
-or just want to move on. If that's happening, please make it known in whatever
+It can go wrong if I fail to notice that people around me just want to move on. If
+that's happening, please make it known in whatever
 way is most appropriate and comfortable for you. Suggesting a different meeting
-or venue where I can voice my opinions (maybe a Slack thread? An upcoming
-retro? etc.) can be very helpful.
+or venue where I can put my thoughts on the record can be very helpful (maybe a Slack thread? An upcoming retro? etc).
 
 Above all else, please remember that I **always** want the project to succeed
 more than I want to be right about anything. I know that means I sometimes have
@@ -98,21 +97,20 @@ If you're not familiar with the concept of Ask Culture and Guess Culture, I
 encourage you to check out whichever of these resources you have time and
 spoons for:
 
-- ['Askers' vs. 'Guessers'](https://12ft.io/proxy?q=https%3A%2F%2Fwww.theatlantic.com%2Fnational%2Farchive%2F2010%2F05%2Faskers-vs-guessers%2F340891%2F)
+- ['Askers' vs. 'Guessers'][atlantic]
   from *The Atlantic*
 - A short
-  [TikTok video](https://www.tiktok.com/@maryrobinettekowal/video/7099897861491412270)
+  [TikTok video][tiktok]
 - [My One Topic Talk](https://www.youtube.com/watch?v=TNH64KhPLjM) (~12
   minutes) (includes a few personal anecdotes about my own foibles)
 
 I am an "Ask Culture" person to the core. That means you should feel free to
 ask me for help or anything else you might need: because if I am stretched too
-thin, I'll simply tell you I can't get to it.
+thin, I'll simply tell you I can't get to it in time to help.
 
-On the other hand, I sometimes forget that everyone else might not find it so
-easy to say "no" when they need to. If I ask *you* for something you can't do,
-or just don't want to, please try to remember that I am unaware of the turmoil
-you might feel over declining, and there will be *no* hard feelings if you
+On the other hand, I sometimes forget that not everyone else finds it so
+easy to say "no" when they need to. If I ask you for something you can't do,
+or just don't want to, please try to remember that there will be no hard feelings if you
 simply tell me you can't.
 
 ### I'm an introvert
@@ -123,7 +121,7 @@ no matter how much I respect and appreciate my colleagues, I generally avoid
 and drinks after work (in an office setting), etc.
 
 If I politely decline an invitation, it's totally okay to ask again next time
-around. I might say yes... once in awhile!
+around. I might even say yes, once in awhile!
 
 ### Peeves
 
@@ -137,3 +135,8 @@ around. I might say yes... once in awhile!
   productive work.
 
 - Mandatory group meetings with sprawling or poorly defined agendas.
+
+[atlantic]: https://archive.is/GBZBf
+[signal]: https://signal.me/#eu/EKYyBUUYWbGSdaN3E3qm-8oij_gkAlVMcYN-9ouQ4DBkV_gmRN1OuYuC4jwAYTQn
+[tiktok]: https://www.tiktok.com/@maryrobinettekowal/video/7099897861491412270
+[time]: https://www.timeanddate.com/worldclock/usa/ann-arbor
